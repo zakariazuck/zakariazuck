@@ -1,7 +1,6 @@
 ## 👋 Hey everyone, I'm Zakaria AKA Bone Evil the Longshoreman 👋
 
-
-![](https://github.com/zakariazuck/zakariazuck/blob/master/zakaria%20room%20animated.gif)
+<img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="100%">
 
 When I was writing this Bio I realised that I don’t know me. Maybe ‘cause I hate “getting to know you.” type of events. Or “Let’s go around the room and introduce ourselves” It’s my idea of hell. So from now on I’m on a quest to learn a new thing about myself everyday.
 
@@ -31,7 +30,7 @@ When I was writing this Bio I realised that I don’t know me. Maybe ‘cause I 
 
 ### I'm listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nbg50o5f7qnyn5wz7ffbd5xb4&cover_image=true&theme=default&show_offline=false&bar_color=a4e2a1)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nbg50o5f7qnyn5wz7ffbd5xb4&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 <!-- TODO add  ### read, and catch up:-->
@@ -41,14 +40,14 @@ When I was writing this Bio I realised that I don’t know me. Maybe ‘cause I 
 If you haven't had a chance to check out [GitHub Skyline](https://skyline.github.com/) yet, do it now. It's a 3D visualisation of your contribution graph. You can view the graphic, make a video, download the STL file, add annotations, and even view it in Virtual Reality. You can also view the ASCII art, and if you know the code combination, you can view the Konami code (コナミコマンド).
 
 As for the charts 🥧, if you like my A+ stats, then you can make your own by checking out the [GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats) and [🔥 GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/).
+<div>
 
-<img src="https://github.com/zakariazuck/zakariazuck/blob/master/skyline.gif" width="700">
+  <img align="center" src="https://github.com/zakariazuck/zakariazuck/blob/master/skyline.gif" width="70%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zakariazuck&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for zakariazuck" width="700">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zakariazuck&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for zakariazuck" width="70%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zakariazuck&theme=jolly" width="700">
-
-
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakariazuck&theme=jolly" width="70%">
+</div>
 ### Watch my contribution graph get eaten by the snake 🐍
 
 <!-- platane/snk works, it just puts it on a new branch -->
