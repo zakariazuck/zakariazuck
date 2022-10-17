@@ -8,6 +8,7 @@ When I was writing this Bio I realised that I don’t know me. Maybe ‘cause I 
 ### Find me all around the web:
 
 <p align="left">
+  
   <a href="https://twitter.com/zacbj" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" title = "Twitter" alt="" height="30" />
   </a>
@@ -40,16 +41,24 @@ When I was writing this Bio I realised that I don’t know me. Maybe ‘cause I 
 If you haven't had a chance to check out [GitHub Skyline](https://skyline.github.com/) yet, do it now. It's a 3D visualisation of your contribution graph. You can view the graphic, make a video, download the STL file, add annotations, and even view it in Virtual Reality. You can also view the ASCII art, and if you know the code combination, you can view the Konami code (コナミコマンド).
 
 As for the charts 🥧, if you like my A+ stats, then you can make your own by checking out the [GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats) and [🔥 GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/).
-<div>
 
-  <img align="center" src="https://github.com/zakariazuck/zakariazuck/blob/master/skyline.gif" width="70%">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zakariazuck&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for zakariazuck" width="70%">
-
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakariazuck&theme=jolly" width="70%">
+<!-- TODO add  this later -->
+<!--<img align="center" src="https://github.com/zakariazuck/zakariazuck/blob/master/skyline.gif" width="70%"> -->
+<div align="center" width="100%">
+  <img  src="https://github-readme-stats.vercel.app/api?username=zakariazuck&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for zakariazuck" width="70%">
 </div>
+
+<div align="center" width="100%">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=zakariazuck&theme=jolly" width="70%">
+</div>
+
+   
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/zakariazuck/zakariazuck/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center" width="100%">
+  <img  src="https://github.com/zakariazuck/zakariazuck/blob/output/github-contribution-grid-snake.svg" width="100%">
+</div>
