@@ -10,15 +10,21 @@ When I was writing this Bio I realised that I don’t know me. Maybe ‘cause I 
 
 <p align="left">
   <a href="https://twitter.com/zacbj" target="blank">
-    <img align="center" src="https://github.com/zakariazuck/zakariazuck/blob/master/socials/twitter.png" title = "Twitter" alt="" height="30" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" title = "Twitter" alt="" height="30" />
   </a>
   <a href="http://linkedin.com/in/zakariabj" target="blank">
-    <img align="center" src="https://github.com/zakariazuck/zakariazuck/blob/master/socials/Linkedin.png" alt="" height="30" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="" height="30" />
+  </a>
+  <a href="https://join.slack.com/t/slack-jjx3386/shared_invite/zt-1icdhl3u8-wAMTjYEBfNs7tq4TQOqvWg" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg" alt="" height="30" />
   </a>
   <a href="http://instagram.com/__sacaria__" target="blank">
-    <img align="center" src="https://github.com/zakariazuck/zakariazuck/blob/master/socials/instagram.png" alt="" height="30" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="" height="30" />
   </a>
+
 </p>
+
+
 
 <!-- TODO add  ### I'm a gamer too, so you might find me on: section roblox, warthunder, enlisted, hell let loose -->
 ### 
