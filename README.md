@@ -2,7 +2,7 @@
 
 <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="100%">
 
-When I was writing this Bio I realised that I don’t know me. Maybe ‘cause I hate “getting to know you.” type of events. Or “Let’s go around the room and introduce ourselves” It’s my idea of hell. So from now on I’m on a quest to learn a new thing about myself everyday.
+I’m on a quest to learn a new thing about myself everyday.
 
 
 ### Find me all around the web:
