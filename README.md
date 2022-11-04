@@ -1,8 +1,12 @@
 ## 👋 Hey everyone, I'm Zakaria AKA Bone Evil the Longshoreman 👋
 
+I am a creative and self-starting Fullstack Developer focused on the Frontend with 3 years experience building and maintaining responsive websites and web apps in the various industries. Highly skilled in HTML/Sass/JavaScript/React/node and working knowledge of Figma. Well-versed in Scrum and Agile.
+
 <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="100%">
 
-I’m on a quest to learn a new thing about myself everyday.
+I enjoy working as part of a team, so one thing that I’m targeting in my next position is a collaborative, team-focused environment. I'm really driven by results. I like it when I have a concrete goal to meet and enough time to figure out a strong strategy for accomplishing it.
+
+I have a background in engineering. I then expanded my skills through a number of learning platforms such as: edx, harvardx CS50, w3schools, OpenClassrooms, 365 data science...
 
 
 ### Find me all around the web:
