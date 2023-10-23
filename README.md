@@ -61,6 +61,14 @@ As for the charts 🥧, if you like my A+ stats, then you can make your own by c
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 <!-- platane/snk works, it just puts it on a new branch -->
 
 <div align="center" width="100%">
