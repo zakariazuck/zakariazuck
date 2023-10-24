@@ -58,7 +58,7 @@ As for the charts 🥧, if you like my A+ stats, then you can make your own by c
 </div>
 
    
-
+###
 ### Watch my contribution graph get eaten by the snake 🐍
 
 <!-- platane/snk works, it just puts it on a new branch -->
