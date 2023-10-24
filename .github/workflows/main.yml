@@ -49,6 +49,6 @@ jobs:
         with:
           # the output branch we mentioned above
           target_branch: output
-          build_dir: zakariazuck
+          build_dir: /
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
