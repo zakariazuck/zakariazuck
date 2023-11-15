@@ -1,6 +1,9 @@
-## 👋 Hey everyone, I'm Zakaria AKA Bone Evil the Longshoreman 👋
+## 👋 Hey everyone, I'm Zakaria 👋
 
-I am a creative and self-starting Fullstack Developer focused on the Frontend with 3 years experience building and maintaining responsive websites and web apps in the various industries. Highly skilled in HTML/Sass/JavaScript/React/node and working knowledge of Figma. Well-versed in Scrum and Agile.
+This is the link to my profissional github : 👉🏻 <a href="https://github.com/zakariabenjaoued" target="blank"><img align="center" src="https://raw.githubusercontent.com/gist/christophermanning/4460135/raw/7278f8125f4508e096396b024304daf238e38b97/octocat.svg" title = "Twitter" alt="" height="30" /></a>👈🏻
+
+
+I am a creative and self-starting Fullstack Developer focused on the Frontend with 4 years experience building and maintaining responsive websites and web apps in the various industries. Highly skilled in HTML/Sass/JavaScript/React/Angular/node/bun and working knowledge of Figma. Well-versed in Scrum and Agile.
 
 <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="100%">
 
@@ -12,10 +15,6 @@ I have a background in engineering. I then expanded my skills through a number o
 ### Find me all around the web:
 
 <p align="left">
-  
-  <a href="https://twitter.com/zacbj" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" title = "Twitter" alt="" height="30" />
-  </a>
   <a href="http://linkedin.com/in/zakariabj" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="" height="30" />
   </a>
@@ -25,7 +24,9 @@ I have a background in engineering. I then expanded my skills through a number o
   <a href="http://instagram.com/__sacaria__" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="" height="30" />
   </a>
-
+  <a href="https://twitter.com/zacbj" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Twitter_and_X_logos.svg" title = "Twitter" alt="" height="30" />
+  </a>
 </p>
 
 
